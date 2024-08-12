@@ -30,4 +30,4 @@ This project is a Python application that visualizes various sorting algorithms 
 
    ```bash
    git clone https://github.com/SharonMelanker/Sorting-visualization.git
-   cd sorting-visualization
+   cd Sorting-visualization
